@@ -1,39 +1,41 @@
 # Contributing to the Job List
-Thank you for your interest in contributing to the Coder Quad and Simplify new-grad job list!
 
-Below, you'll find the guidelines for our repository. If you have any questions, please create a [miscellaneous issue](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose).
+Thanks for contributing to this **scientific software & computational science** job list (MSSE-oriented). The list is synced from Simplify and filtered to roles where software meets the physical sciences.
 
-## Finding a Job to Add
-We ask that the jobs openings that you add meet some requirements. Specifically, your posting must
-- be in one of the following categories:
-    - software/computer engineering
-    - computer/data science
-    - product management
-    - quant
-    - any other tech-related field
-- be for recently graduated students
-- be located in the United States, Canada, or remote.
-- not already exist in the list.
-- belong to a company using a formal ATS such as Workday, Greenhouse, Ashby, etc.
-    - any company using non-ATS platforms such as forms or surveys must be verified/approved on Simplify.
+If you have questions, open a [miscellaneous issue](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose).
 
-## Adding a Job
-Cool! You're ready to add a job to the list. Follow these steps:
+## What belongs on this list
 
-1) First create a new issue [here](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose).
-2) Select the **New Role** issue template.
-3) Fill in the information about your job opening into the form, then hit submit.
-> Please make a new submission for each unique position, **even if they are for the same company**.
-4) That's it! Once a member of our team has reviewed your submission, it will be automatically added to the `README`
+Job postings should:
 
-## Editing a Job
-To edit a job posting (changing name, setting as inactive, removing, etc.), follow these steps:
-1) First copy the url of the job you would like to edit.
-> This can be found by right-clicking on the `APPLY` button and selecting **copy link address**
-2) Create a new issue [here](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose).
-3) Select the **Edit Role** issue template.
-4) Fill in the url to the **link** input.
-> This is how we ensure your edit affects the correct job posting
-5) Leave every other input blank except for whichever fields you would like to update or change about the role.
-6) If it is not obvious why you are making these edits, please specify why in the reason box at the bottom of the form.
-7) Hit submit. A member of our team will review your revision and approve it shortly.
+- Fit at least one of the **categories** used in the README (Battery / Energy, Computational Chemistry, Bioinformatics, Scientific Software, HPC, Simulation, ML for Science, Materials Science, Research Software Engineer, or Other).
+- Be for **new grads, juniors, entry-level, or internships** (recently graduated or early-career).
+- Be in the **United States, Canada, or remote**.
+- **Not already be** in the list.
+- Be from companies using a formal ATS (e.g. Greenhouse, Lever, Ashby, Workday). Non-ATS application links may need extra verification.
+
+## Adding a job (via issue)
+
+1. Create a new issue [here](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose).
+2. Choose the **New Role** template.
+3. Fill in the form (link, company, title, location, **category** — use the dropdown that matches the README sections — sponsorship, etc.) and submit.
+4. Submit one issue per **unique position**, even if the company has multiple roles.
+
+After a maintainer labels the issue as approved, the job is added to the list and the README is updated automatically.
+
+## Adding jobs without an issue (maintainers)
+
+If you use the [discovery script](scripts/README.md) and want to add jobs without opening issues:
+
+1. Copy the jobs you want from `scripts/discovered-jobs.json` into `scripts/approved-jobs.json`.
+2. From the repo root run: `python scripts/add_approved_to_listings.py`.
+3. Commit and push the updated `listings.json` and `README.md`.
+
+## Editing a job
+
+1. Copy the job’s apply URL (right‑click the **Apply** button → copy link address).
+2. Create an issue [here](https://github.com/kayleennordyke/scientific-software-new-grad-positions/issues/new/choose) and choose **Edit Role**.
+3. Paste the URL in the link field; leave other fields blank unless you’re changing them.
+4. Add a note in the reason box if the change isn’t obvious, then submit.
+
+A maintainer will review and apply the edit.
