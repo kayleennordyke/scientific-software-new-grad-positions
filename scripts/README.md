@@ -19,7 +19,7 @@ Optional tooling for the scientific software job list.
 python scripts/discover_jobs.py
 ```
 
-Then open `scripts/discovered-jobs.md`, review each link, and if you want to add a job to the main repo list, submit it via [CONTRIBUTING](../CONTRIBUTING.md) (e.g. open an issue or use the existing process). **Do not auto-add jobs** — always keep a manual review step.
+Then open `scripts/discovered-jobs.md`, review each link. To add jobs **without opening a GitHub issue**, use the approval flow below.
 
 **Customization:** Edit `discover_jobs.py`:
 
@@ -27,3 +27,28 @@ Then open `scripts/discovered-jobs.md`, review each link, and if you want to add
 - **`DISCOVERY_KEYWORDS`** — Add/remove phrases to match in job title or description.
 
 **Target companies (examples):** Energy (Tesla, Redwood Materials, QuantumScape, Form Energy, Sila), Biotech (Genentech, Recursion, Insitro, Amgen, GSK), Scientific software (Schrödinger, D. E. Shaw Research, NVIDIA, Altos Labs). The script supports Greenhouse, Lever, and Ashby; add `("Company", "ashby", "BoardName")` for any company whose careers page is at `jobs.ashbyhq.com/BoardName`.
+
+---
+
+## Add approved jobs to the README (`add_approved_to_listings.py`)
+
+**Purpose:** Add jobs to the main list and regenerate the README **without opening a GitHub issue**. Use this after you’ve reviewed `discovered-jobs.md` and decided which roles to include.
+
+**Steps:**
+
+1. **Copy the jobs you want** from `discovered-jobs.json` into `approved-jobs.json`. The format is the same: an array of objects with `company`, `title`, `url`, and `location`.
+2. **From the repo root**, run:
+   ```bash
+   python scripts/add_approved_to_listings.py
+   ```
+3. The script appends those jobs to `.github/scripts/listings.json` (skipping any already present), then runs the README generator. **Commit and push** the updated `listings.json` and `README.md`.
+
+**Example `approved-jobs.json`:**
+```json
+[
+  {"company": "Sila Nanotechnologies", "title": "Battery Engineering Internship", "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/7572052", "location": "Alameda, CA"},
+  {"company": "Redwood Materials", "title": "Systems Modeling Intern", "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5798152004", "location": "McCarran, NV"}
+]
+```
+
+You can edit `approved-jobs.json` by hand or copy-paste from `discovered-jobs.json`. Jobs already in the main list (same URL) are skipped.

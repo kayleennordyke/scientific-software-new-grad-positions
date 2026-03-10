@@ -45,14 +45,18 @@ body:
     id: category
     attributes:
       label: What category does this job belong to?
-      description: Select the category that best fits this job posting
+      description: Select the category that best fits this job posting (matches the browse sections in the README).
       multiple: false
       options:
-        - Software Engineering
-        - Product Management
-        - Data Science, AI & Machine Learning
-        - Quantitative Finance
-        - Hardware Engineering
+        - Battery / Energy
+        - Computational Chemistry
+        - Bioinformatics
+        - Scientific Software
+        - HPC
+        - Simulation
+        - ML for Science
+        - Materials Science
+        - Research Software Engineer
         - Other
     validations:
       required: true

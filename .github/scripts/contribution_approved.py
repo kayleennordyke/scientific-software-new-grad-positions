@@ -79,6 +79,19 @@ CATEGORY_MAPPING = {
     "miscellaneous": "Other",
 }
 
+# MSSE categories (match README browse sections); form selection stored in msse_category
+MSSE_CATEGORY_NAMES = {
+    "Battery / Energy",
+    "Computational Chemistry",
+    "Bioinformatics",
+    "Scientific Software",
+    "HPC",
+    "Simulation",
+    "ML for Science",
+    "Materials Science",
+    "Research Software Engineer",
+}
+
 def _clean(s: str) -> str:
     return re.sub(r"[\s*_`]+", " ", s or "").strip()
 
@@ -308,6 +321,11 @@ def main():
     # Remove the internal tracking field before saving
     provided_fields = data.pop("_provided_fields", set())
 
+    # If form category is an MSSE category, store it for README and use generic category for schema
+    if data.get("category") in MSSE_CATEGORY_NAMES:
+        data["msse_category"] = data["category"]
+        data["category"] = "Scientific Software"
+
     # UPDATE LISTINGS
     def get_commit_text(listing):
         closed_text = "" if listing["active"] else "(Closed)"
@@ -336,6 +354,8 @@ def main():
             for key, value in data.items():
                 if key in provided_fields or key in ["date_updated"]:  # Always update date_updated
                     listing_to_update[key] = value
+            if "msse_category" in data:
+                listing_to_update["msse_category"] = data["msse_category"]
 
             util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
         else:

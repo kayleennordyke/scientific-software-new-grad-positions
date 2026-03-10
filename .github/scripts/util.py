@@ -330,8 +330,14 @@ def classify_msse_category(listing):
 
 
 def ensure_msse_categories(listings):
+    MSSE_NAMES = {c["name"] for c in MSSE_CATEGORIES}
     for listing in listings:
-        listing["msse_category"] = classify_msse_category(listing)
+        # Keep form-selected MSSE category if present and valid
+        existing = (listing.get("msse_category") or "").strip()
+        if existing in MSSE_NAMES:
+            listing["msse_category"] = existing
+        else:
+            listing["msse_category"] = classify_msse_category(listing)
     return listings
 
 
