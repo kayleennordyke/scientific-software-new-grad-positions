@@ -1,0 +1,68 @@
+# Sync listings from upstream (New-Grad-Positions + Summer2026-Internships) and regenerate README
+name: Sync from upstream
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sync_upstream
+  cancel-in-progress: true
+
+jobs:
+  sync-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - name: Fetch and merge listings from upstream
+        run: |
+          curl -sL "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json" -o /tmp/listings-new-grad.json
+          curl -sL "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json" -o /tmp/listings-internships.json
+          python3 -c "
+          import json
+          with open('/tmp/listings-new-grad.json') as f:
+              ng = json.load(f)
+          with open('/tmp/listings-internships.json') as f:
+              intern = json.load(f)
+          seen = set()
+          merged = []
+          for item in ng + intern:
+              key = (item.get('url'), item.get('company_name'), item.get('title'))
+              if key in seen:
+                  continue
+              seen.add(key)
+              merged.append(item)
+          with open('.github/scripts/listings.json', 'w') as f:
+              json.dump(merged, f, indent=2)
+          print(f'Merged {len(ng)} new-grad + {len(intern)} internships -> {len(merged)} total (after dedup)')
+          "
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+
+      - name: Regenerate README
+        id: update
+        run: python .github/scripts/update_readmes.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .github/scripts/listings.json README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync listings from New-Grad-Positions + Summer2026-Internships and regenerate README"
+            git push origin dev
+          fi

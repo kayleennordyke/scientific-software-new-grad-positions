@@ -17,7 +17,44 @@ BLOCKED_COMPANIES = {
     "https://simplify.jobs/c/Jerry",
 }
 
-# Define categories with their correct anchor formats and emojis
+# Companies known to hire scientific software / computational science roles (lowercase for matching)
+SCIENTIFIC_COMPANIES = {
+    "tesla", "sila nanotechnologies", "quantumscape", "redwood materials", "form energy",
+    "genentech", "amgen", "recursion", "insitro", "gsk", "personalis", "illumina", "pacbio",
+    "schrödinger", "schrodinger", "d. e. shaw research", "deshaw", "nvidia", "altos labs", "c3 ai", "ansys",
+    "lawrence livermore", "berkeley lab", "sandia", "los alamos", "ornl", "oak ridge",
+    "argonne", "pnnl", "pacific northwest", "brookhaven", "national renewable energy", "nrel",
+    "mit lincoln lab", "lincoln laboratory", "johns hopkins apl", "spacex",
+    "benchling", "tempus", "veracyte", "fulcrum", "kbr", "leidos", "booz allen", "battelle",
+    "cadence design", "synopsys", "mentor graphics", "mathworks", "wolfram",
+}
+
+# Title/role keywords that indicate scientific software / MSSE-relevant roles
+SCIENTIFIC_TITLE_KEYWORDS = [
+    "computational chemistry", "computational scientist", "simulation engineer", "simulation software",
+    "battery", "energy storage", "materials science", "materials modeling",
+    "bioinformatics", "computational biology", "genomics", "computational drug",
+    "ml for science", "machine learning for science", "scientific computing", "hpc", "high performance computing",
+    "research software", "research engineer", "research sci", "scientific software", "scientific developer",
+    "robotics", "scientific instrumentation", "physics engine", "molecular", "quantum",
+    "computational physics", "computational chem", "materials informatics", "drug discovery",
+    "compiler engineer", "gpu", "cuda", "distributed systems", "scientific ml", "applied ml",
+]
+
+# MSSE / scientific software categories for this repo (order determines table order and browse links)
+MSSE_CATEGORIES = [
+    {"key": "Battery/Energy", "name": "Battery / Energy", "emoji": "🔋"},
+    {"key": "Computational Chemistry", "name": "Computational Chemistry", "emoji": "⚗️"},
+    {"key": "Bioinformatics", "name": "Bioinformatics", "emoji": "🧬"},
+    {"key": "Scientific Software", "name": "Scientific Software", "emoji": "🔬"},
+    {"key": "HPC", "name": "HPC", "emoji": "⚡"},
+    {"key": "Simulation", "name": "Simulation", "emoji": "🖥️"},
+    {"key": "ML for Science", "name": "ML for Science", "emoji": "🤖"},
+    {"key": "Materials Science", "name": "Materials Science", "emoji": "🧪"},
+    {"key": "Research Software Engineer", "name": "Research Software Engineer", "emoji": "🛠️"},
+]
+
+# Define categories with their correct anchor formats and emojis (used when not filtering to scientific)
 CATEGORIES = {
     "Software": {
         "name": "Software Engineering",
@@ -231,7 +268,7 @@ def create_md_table(listings):
 def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "product engineer", "fullstack engineer", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "founding engineer", "mobile dev", "mobile engineer", "data scientist", "data engineer", "research eng", "product manag", "apm", "product", "devops", "android", "ios", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "quant", "quantitative", "trading", "finance", "investment", "ai &", "machine learning", "ml", "analytics", "analyst", "research sci"]
-    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i"]
+    new_grad_terms = ["new grad", "early career", "college grad", "entry level", "founding", "early in career", "university grad", "fresh grad", "2024 grad", "2025 grad", "2026 grad", "engineer 0", "engineer 1", "engineer i ", "junior", "sde 1", "sde i", "intern", "co-op", "coop"]
     
     # Convert blocked URLs to lowercase for case-insensitive comparison
     blocked_urls_lower = {url.lower() for url in BLOCKED_COMPANIES}
@@ -247,6 +284,56 @@ def filterListings(listings, earliest_date):
                 final_listings.append(listing)
 
     return final_listings
+
+
+def filter_to_scientific(listings):
+    """Keep only listings that are scientific / MSSE-relevant (company or title match)."""
+    out = []
+    title_kw = [k.lower() for k in SCIENTIFIC_TITLE_KEYWORDS]
+    for listing in listings:
+        company_lower = (listing.get("company_name") or "").lower()
+        title_lower = (listing.get("title") or "").lower()
+        if company_lower in SCIENTIFIC_COMPANIES:
+            out.append(listing)
+            continue
+        if any(kw in company_lower for kw in title_kw):
+            out.append(listing)
+            continue
+        if any(kw in title_lower for kw in title_kw):
+            out.append(listing)
+    return out
+
+
+def classify_msse_category(listing):
+    """Assign one MSSE category based on title and company."""
+    title_lower = (listing.get("title") or "").lower()
+    company_lower = (listing.get("company_name") or "").lower()
+    text = title_lower + " " + company_lower
+    # Order matters: more specific first
+    if any(x in text for x in ["battery", "energy storage", "redwood", "quantumscape", "sila", "form energy"]):
+        return "Battery / Energy"
+    if any(x in text for x in ["computational chem", "chemistry", "schrödinger", "molecular"]):
+        return "Computational Chemistry"
+    if any(x in text for x in ["bioinformatics", "genomics", "computational biolog", "genentech", "amgen", "recursion", "insitro", "personalis", "illumina"]):
+        return "Bioinformatics"
+    if any(x in text for x in ["ml for science", "machine learning for science", "ai for science"]):
+        return "ML for Science"
+    if any(x in text for x in ["hpc", "high performance", "distributed computing", "parallel computing"]):
+        return "HPC"
+    if any(x in text for x in ["simulation", "physics engine", "modeling"]):
+        return "Simulation"
+    if any(x in text for x in ["materials science", "materials modeling", "materials informatics"]):
+        return "Materials Science"
+    if any(x in text for x in ["research software", "research engineer", "research sci", "rse"]):
+        return "Research Software Engineer"
+    return "Scientific Software"
+
+
+def ensure_msse_categories(listings):
+    for listing in listings:
+        listing["msse_category"] = classify_msse_category(listing)
+    return listings
+
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
     with open(filename) as f:
@@ -295,6 +382,35 @@ def create_category_table(listings, category_name):
         )
 
     return result
+
+
+README_TOP_ANCHOR = "scientific-software--computational-science-jobs"
+
+
+def create_msse_category_table(listings, category_name):
+    """Build a section and table for one MSSE category."""
+    category_listings = [l for l in listings if l.get("msse_category") == category_name]
+    if not category_listings:
+        return ""
+    info = next((c for c in MSSE_CATEGORIES if c["name"] == category_name), None)
+    emoji = info["emoji"] if info else "🔬"
+    anchor = category_name.lower().replace(" ", "-").replace("/", "-").replace(" & ", "-")
+    header = f"\n\n## {emoji} {category_name}\n\n"
+    header += f"[Back to top](#{README_TOP_ANCHOR})\n\n"
+    active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
+    inactive = sorted([l for l in category_listings if not l["active"]], key=lambda l: l["date_posted"], reverse=True)
+    result = header
+    if active:
+        result += create_md_table(active) + "\n\n"
+    if inactive:
+        result += (
+            "<details>\n"
+            f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
+            + create_md_table(inactive) +
+            "\n\n</details>\n\n"
+        )
+    return result
+
 
 def classifyJobCategory(job):
     # First check if there's an existing category
@@ -367,27 +483,25 @@ def ensureCategories(listings):
         listing["category"] = classifyJobCategory(listing)
     return listings
 
-def embedTable(listings):    
-    listings = ensureCategories(listings)    
+def embedTable(listings):
+    listings = ensureCategories(listings)
     listings = mark_stale_listings(listings)
+    listings = filter_to_scientific(listings)
+    listings = ensure_msse_categories(listings)
 
-    active_listings = filter_active(listings)    
+    active_listings = filter_active(listings)
     category_counts = {}
-    for category_info in CATEGORIES.values():
-        count = len([l for l in active_listings if l["category"] == category_info["name"]])
-        category_counts[category_info["name"]] = count
-    
-    total_active = len(active_listings)    
-    # Create category links with counts using correct anchor formats and emojis
-    # Order: Software, Product, Data, Quant, Hardware, Other
-    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
+    for c in MSSE_CATEGORIES:
+        name = c["name"]
+        category_counts[name] = len([l for l in active_listings if l.get("msse_category") == name])
+    total_active = len(active_listings)
+
     category_links = []
-    for category_key in category_order:
-        if category_key in CATEGORIES:
-            category_info = CATEGORIES[category_key]
-            count = category_counts[category_info["name"]]
-            anchor = category_info["name"].lower().replace(" ", "-").replace(",", "").replace("&", "")
-            category_links.append(f"{category_info['emoji']} **[{category_info['name']}](#-{anchor}-new-grad-roles)** ({count})")
+    for c in MSSE_CATEGORIES:
+        name = c["name"]
+        count = category_counts.get(name, 0)
+        anchor = name.lower().replace(" ", "-").replace("/", "-").replace(" & ", "-")
+        category_links.append(f"{c['emoji']} **[{name}](#{anchor})** ({count})")
     category_counts_str = "\n\n".join(category_links)
 
     filepath = "README.md"
@@ -395,41 +509,35 @@ def embedTable(listings):
     in_browse_section = False
     browse_section_replaced = False
     in_table_section = False
-    
+
     with open(filepath, "r") as f:
         for line in f.readlines():
             if not browse_section_replaced and line.startswith("### Browse"):
-                # Start of Browse section
                 in_browse_section = True
-                newText += f"### Browse {total_active} New Grad Roles by Category\n\n{category_counts_str}\n\n---\n"
+                newText += f"### Browse {total_active} scientific / MSSE-relevant roles by category\n\n{category_counts_str}\n\n---\n"
                 browse_section_replaced = True
                 continue
-            
+
             if in_browse_section:
                 if line.startswith("---"):
                     in_browse_section = False
                 continue
-            
+
             if not in_table_section and "TABLE_START" in line:
                 in_table_section = True
                 newText += line
-                # Add page break before first category
                 newText += "\n---\n\n"
-                # Add tables for each category
-                for category_key in category_order:
-                    if category_key in CATEGORIES:
-                        category_info = CATEGORIES[category_key]
-                        newText += create_category_table(listings, category_info["name"])
+                for c in MSSE_CATEGORIES:
+                    newText += create_msse_category_table(listings, c["name"])
                 newText += "\n"
-                table_section_replaced = True
                 continue
-            
+
             if in_table_section:
                 if "TABLE_END" in line:
                     in_table_section = False
                     newText += line
                 continue
-            
+
             if not in_browse_section and not in_table_section:
                 newText += line
 
