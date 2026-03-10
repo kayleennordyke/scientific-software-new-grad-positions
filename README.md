@@ -8,6 +8,8 @@ Listings are synced daily from [New-Grad-Positions](https://github.com/SimplifyJ
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)!** See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+**Optional:** Run `python scripts/discover_jobs.py` to find more roles at target companies (Greenhouse/Lever). Output is for **manual review only** — see [scripts/README.md](./scripts/README.md).
+
 ---
 
 ## Why this is useful for MSSE (and similar programs)
