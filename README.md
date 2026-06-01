@@ -44,7 +44,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 
 ---
 
-### Browse 69 scientific / MSSE-relevant roles by category
+### Browse 70 scientific / MSSE-relevant roles by category
 
 🔋 **[Battery / Energy](#battery---energy)** (1)
 
@@ -52,7 +52,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 
 🧬 **[Bioinformatics](#bioinformatics)** (0)
 
-🔬 **[Scientific Software](#scientific-software)** (26)
+🔬 **[Scientific Software](#scientific-software)** (27)
 
 ⚡ **[HPC](#hpc)** (1)
 
@@ -98,7 +98,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 
 
 <details>
-<summary>🗃️ Inactive roles (4)</summary>
+<summary>🗃️ Inactive roles (3)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -129,13 +129,6 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Battery Analytics Intern - Multiple Teams</td>
 <td>Schenectady, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/John-Deere?utm_source=GHList&utm_medium=company">John Deere</a></strong></td>
-<td>Electrification and Battery Engineering Intern 2026 - Product Engineering</td>
-<td>Davenport, IA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -360,7 +353,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Machine Learning Scientist Intern</td>
 <td>San Bruno, CA</td>
 <td>🔒</td>
@@ -374,7 +367,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
+<td>↳</td>
 <td>Intern - Product Technical Development - Digital Sciences Focus</td>
 <td>San Bruno, CA</td>
 <td>🔒</td>
@@ -399,7 +392,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern 🎓 🛂</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
@@ -436,77 +429,84 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Software Engineer 1 - Metrics for Release Implementation</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8554811002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/49836f97-fd8c-4ec9-82fe-fc622e38cf57?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>PhD Software Engineer Intern - Decision Intelligence 🎓</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d2de708b-89ff-406f-bd7a-70f5d52cf392?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plus?utm_source=GHList&utm_medium=company">PlusAI</a></strong></td>
 <td>Software Engineer Intern-Runtime - Robotics</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c01e4a39-29a1-4e02-876e-5385672cd56d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Robotics</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/66f539a8-7319-483c-b09b-58e75cfaa9d2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>AI Software Engineer New Grad - Kernel Libraries 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/77cf3c94-1e1a-4efd-b31b-b9fcf510eef0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Fayetteville, NC</td>
 <td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0240000?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/25b5405d-4703-4057-8242-a4662466c188?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Developer Intern</td>
 <td>Fayetteville, NC</td>
 <td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239999?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0cdbbc07-4d65-4228-b65b-a82496fba8d9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Fayetteville, NC</td>
 <td><div align="center"><a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/516e0a3b-ff8b-4a30-84e3-525cbdf40b92?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Machine Learning Intern - Multimodal Models Generative AI</td>
 <td>St Paul, MN</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eff308a0-3750-44ad-8b74-5d3d486e1a64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>ASIC Design Engineer New Grad</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4ca513a9-c75f-4b24-b016-16df26b72782?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Quadric?utm_source=GHList&utm_medium=company">Quadric</a></strong></td>
 <td>Deep Learning Compiler Engineer New Grad</td>
 <td>Burlingame, CA</td>
 <td><div align="center"><a href="https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1530dfa5-7c83-434e-a46e-bead4069bdcd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Machine Learning Applications and Compiler Engineer New Grad 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f96fea5f-c7f1-4949-8f04-061ee0f7903f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -618,7 +618,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 
 
 <details>
-<summary>🗃️ Inactive roles (272)</summary>
+<summary>🗃️ Inactive roles (271)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -636,196 +636,189 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>ASIC Physical Design Engineer New Grad - Netlisting 🎓</td>
 <td>Austin, TX</br>Santa Clara, CA</td>
 <td>🔒</td>
-<td>8d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>PhD Software Engineer Intern - Decision Intelligence 🎓</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Remote in USA</br>Reston, VA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chantilly, VA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chantilly, VA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chantilly, VA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Chantilly, VA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Software Engineer New Grad 🎓</td>
 <td>Remote in USA</br>Santa Clara, CA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Product Engineer Intern</td>
 <td>McLean, VA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Systems Software Engineer Intern</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Systems Software Engineer New Grad 🎓</td>
 <td>Hillsboro, OR</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Fayetteville, NC</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
 <td>Software Engineering Intern - Distributed systems - Public cloud platforms</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>ASIC Floorplan Design Engineer New Grad 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>Orlando, FL</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Morgantown, WV</br>Reston, VA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Cartographic Analyst Junior</td>
 <td>Springfield, VA</td>
 <td>🔒</td>
-<td>23d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
 <td>Junior Gen AI Developer 🇺🇸</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Full Stack Developer, Junior 🛂</td>
 <td>McLean, VA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Software Engineer Intern - AI Tools</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>Chantilly, VA</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">🔥 Tesla</a></strong></td>
 <td>Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Machine Learning Platform Intern - Multiple Teams</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Integration Tools</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Data Engineer Intern - Multiple Teams</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI Tooling Intern - Fullstack Engineer - AI Tooling</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Full Stack Development Intern</td>
 <td>Orlando, FL</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Junior Cyber Electromagnetic Activities Software Engineer Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>Stillwater, OK</br>Edmond, OK</br>Oklahoma City, OK</br>Lawton, OK</br>Norman, OK</details></td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">🔥 Tesla</a></strong></td>
@@ -1119,7 +1112,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>AI Application Engineer for Quantum Development Intern - Masters/PhD 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -1262,7 +1255,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Junior Software Engineer</td>
 <td><details><summary><strong>6 locations</strong></summary>Orlando, FL</br>Lexington, MA</br>Morgantown, WV</br>Omaha, NE</br>Charlottesville, VA</br>Newport News, VA</details></td>
 <td>🔒</td>
@@ -1441,14 +1434,14 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Compiler Engineering Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Morgantown, WV</br>Reston, VA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -1934,7 +1927,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Software Engineer / Web Development Intern</td>
 <td>Wixom, MI</td>
 <td>🔒</td>
@@ -2071,14 +2064,14 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Software Engineer – New College Graduate 2026 - Deep Learning Libraries</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Full-Stack Developer - Junior</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -2508,7 +2501,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
@@ -2563,7 +2556,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Software Engineer 1 - Linux/HPC/Bash/Python/Docker/Gitlab/CI/CD</td>
 <td>Annapolis Junction, MD</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/captivation/jobs/5230024008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5ae34582-a936-4638-a6b7-1452ac6dea22?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 </tbody>
 </table>
@@ -2651,7 +2644,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Simulation Software Engineer Intern</td>
 <td><details><summary><strong>5 locations</strong></summary>NYC</br>Florida</br>Massachusetts</br>Pennsylvania</br>North Carolina</details></td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Motional?utm_source=GHList&utm_medium=company">Motional</a></strong></td>
@@ -2689,7 +2682,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - Robotic Manipulation Modeling and Control</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -2805,63 +2798,63 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Generative AI Research Engineer Intern 🎓</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://careers-cotiviti.icims.com/jobs/18972/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/16e95392-4925-49f3-8e5b-805e96b64ad6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plus?utm_source=GHList&utm_medium=company">PlusAI</a></strong></td>
 <td>Research Engineer Intern - Mapping & Localization 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/de3ac110-de5d-4cf0-8ae0-c05d6927c542?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Research Engineer Intern 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/87bf913a-f01f-4edf-b21e-df5528825207?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plus?utm_source=GHList&utm_medium=company">PlusAI</a></strong></td>
 <td>Research Engineer Intern - Control</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">🔥 Adobe</a></strong></td>
 <td>Research Scientist/Engineer Intern 🎓</td>
 <td><details><summary><strong>7 locations</strong></summary>Seattle, WA</br>Toronto, ON, Canada</br>SF</br>Lafayette, KS</br>San Jose, CA</br>Hyattsville, MD</br>NYC</details></td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f354f30b-fb00-4fd5-b41d-93958a339309?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Research Scientist Intern - Multimodal Contextual AI 🎓</td>
 <td>Redmond, WA</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/2160167211413098?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5586ae51-ed8e-4c4f-a2ba-98b61c35dbe0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Research Scientist Intern - Multimodal AI 🎓</td>
 <td>Redmond, WA</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/1732424664451603?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11c69133-e993-47d7-9b8d-331a0c9131df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Unity?utm_source=GHList&utm_medium=company">Unity</a></strong></td>
 <td>Research Science Intern</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7904529&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4789e2fb-c80d-4628-9815-66d3e900a458?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Research Scientist Intern - Language & Multimodal Foundations 🎓</td>
 <td>Seattle, WA</br>Menlo Park, CA</br>NYC</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/24536664159369645?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/41d0ba32-8c09-48c5-917a-2ee8e6af3a8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -3085,7 +3078,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 
 
 <details>
-<summary>🗃️ Inactive roles (189)</summary>
+<summary>🗃️ Inactive roles (184)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3103,35 +3096,35 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Research Scientist Intern - Seed Responsible AI</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">🔥 Waymo</a></strong></td>
 <td>Applied Research Scientist New Grad - Multi-Modal Perception</td>
 <td>SF</br>Mountain View, CA</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Princeton-University?utm_source=GHList&utm_medium=company">Princeton University</a></strong></td>
 <td>Research Software Engineer 1</td>
 <td>Princeton, NJ</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cotiviti?utm_source=GHList&utm_medium=company">Cotiviti</a></strong></td>
 <td>Generative AI Research Engineer Intern 🎓</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Icon-Me?utm_source=GHList&utm_medium=company">Icon</a></strong></td>
 <td>Founding Research Engineer</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sieve?utm_source=GHList&utm_medium=company">Sieve</a></strong></td>
@@ -3694,7 +3687,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
 <td>Research Scientist, Embodied and Agentic AI 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
@@ -3712,7 +3705,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>2026 Summer Intern - Research Scientist - Visual Solution</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung-Research-America?utm_source=GHList&utm_medium=company">Samsung Research America</a></strong></td>
@@ -3869,14 +3862,14 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Research Scientist Intern - Computational Photography - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - AI Research - Perception</td>
 <td>SF</br>Menlo Park, CA</br>NYC</td>
 <td>🔒</td>
@@ -3890,14 +3883,14 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Research Scientist Intern - Wearables Input and Interaction</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - Soft Wearable Tactile Sensors - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -4013,7 +4006,7 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>Research Scientist Intern - Applied Machine Learning-Enterprise</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -4044,14 +4037,14 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
 <td>Research Scientist Intern - AI Alignment</td>
 <td>Montreal, QC, Canada</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
+<td>↳</td>
 <td>Audio Research Scientist Intern</td>
 <td>Redmond, WA</br>Sunnyvale, CA</td>
 <td>🔒</td>
@@ -4383,41 +4376,6 @@ Those roles get buried on generic SWE job boards. This repo is **the MSSE-orient
 <td>↳</td>
 <td>Research Scientist Intern - Computer Use Agents 🎓</td>
 <td>Seattle, WA</br>Menlo Park, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">🔥 Meta</a></strong></td>
-<td>Research Scientist Intern - Generative AI Digital Characters</td>
-<td>Sausalito, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research Scientist Intern - Applied Vision</td>
-<td>Redmond, WA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research Scientist Intern - Multimodal Eye Tracking Algorithms 🎓</td>
-<td>Redmond, WA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research Scientist Intern - Computational Imaging</td>
-<td>Redmond, WA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>AI Research Scientist Intern - 3D Computer Vision and Graphics - Media</td>
-<td>Redmond, WA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
