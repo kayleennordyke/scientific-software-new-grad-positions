@@ -17911,96 +17911,6 @@
   {
     "source": "Simplify",
     "category": "Software",
-    "company_name": "Invenergy",
-    "id": "0017447e-d625-4907-9694-bb3d028539ac",
-    "title": "Support Analyst 1 - IT Service Desk",
-    "active": false,
-    "date_updated": 1762916716,
-    "date_posted": 1762063989,
-    "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Denver-CO/Support-Analyst-I--IT-Service-Desk_R09611-1",
-    "locations": [
-      "Denver, CO"
-    ],
-    "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Sainsbury's",
-    "id": "89edc5c0-4a8b-4dca-9e4f-9a3026c260f1",
-    "title": "Trading Assistant - Shift",
-    "active": false,
-    "date_updated": 1762047684,
-    "date_posted": 1762047684,
-    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033513",
-    "locations": [
-      "Rugby, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Sainsburys",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Sainsbury's",
-    "id": "42613538-1312-4d0b-a0c6-52f429b07081",
-    "title": "Trading Assistant - Shift",
-    "active": false,
-    "date_updated": 1762011570,
-    "date_posted": 1762011570,
-    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033327",
-    "locations": [
-      "Liverpool, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Sainsburys",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Quant",
-    "company_name": "Sainsbury's",
-    "id": "3930c5ae-121e-4a74-b7a2-969d5885aa5a",
-    "title": "Trading Assistant - Shift",
-    "active": false,
-    "date_updated": 1762011569,
-    "date_posted": 1762011569,
-    "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033382",
-    "locations": [
-      "Edinburgh, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Sainsburys",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Texas A&M International University",
-    "id": "1c98614e-86aa-4b06-b75a-3a6b4453b760",
-    "title": "Student Assistant - Oit-Lab",
-    "active": false,
-    "date_updated": 1762009582,
-    "date_posted": 1762009582,
-    "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Student-Assistant--OIT--Lab-_R-083764",
-    "locations": [
-      "Laredo, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
     "company_name": "American Express",
     "id": "f167d990-d144-4876-86f3-4f07f400450f",
     "title": "Campus Full Time - Technology Software Engineer",
@@ -71924,24 +71834,6 @@
   {
     "source": "Simplify",
     "category": "Hardware",
-    "company_name": "Vantage Point Solutions",
-    "id": "494340e2-9fde-4290-803c-56b2653f56d5",
-    "title": "Field Services Technician",
-    "active": false,
-    "date_updated": 1762037646,
-    "date_posted": 1762037646,
-    "url": "https://vantage-point-solutions-inc.breezy.hr/p/fb1ad5c8457e/apply",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
     "company_name": "AT&T",
     "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
     "title": "Engineering Technician",
@@ -98024,7 +97916,7 @@
     "company_name": "NV5 Global",
     "id": "d2f29512-2c4c-421f-9159-15dbeab05718",
     "title": "Survey Office Technician",
-    "active": false,
+    "active": true,
     "date_updated": 1769027645,
     "date_posted": 1769027645,
     "url": "https://careers-nv5.icims.com/jobs/11740/job?mobile=true&needsRedirect=false",
@@ -337157,96 +337049,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Marvell",
-    "id": "3da7f4ff-d03e-4160-90af-12fa5998a971",
-    "title": "AI Infrastructure Engineering Intern-Master's Degree",
-    "active": false,
-    "terms": [
-      "Winter 2025",
-      "Spring 2025",
-      "Summer 2025",
-      "Fall 2025",
-      "Winter 2026",
-      "Spring 2026"
-    ],
-    "date_updated": 1762010463,
-    "date_posted": 1762010463,
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--Master-s-Degree_2502453-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Marvell",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Oshkosh",
-    "id": "a1170046-c2c3-488f-8d40-7af852884933",
-    "title": "Telematics Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762011484,
-    "date_posted": 1762011484,
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Telematics-Intern---Summer-2026_R40949",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "company_url": "https://simplify.jobs/c/Oshkosh",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Sanofi",
-    "id": "b554804f-f4d6-487e-80b4-771ee548b0e2",
-    "title": "Winter/Spring 2026 Co-op/Intern - Mrna Data & Computational Science",
-    "active": false,
-    "terms": [
-      "Winter 2026",
-      "Spring 2026"
-    ],
-    "date_updated": 1762073846,
-    "date_posted": 1762073846,
-    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Winter-Spring-2026-Co-op-Intern---mRNA-Data---Computational-Science_R2799682",
-    "locations": [
-      "Waltham, MA"
-    ],
-    "company_url": "https://simplify.jobs/c/Sanofi",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Qualcomm",
-    "id": "4fe0e834-5a73-4dbe-8e0c-8586bd3f9f4d",
-    "title": "FY26 Intern \u2013 Multi-Modal LLM Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762011564,
-    "date_posted": 1762011564,
-    "url": "https://qualcomm.eightfold.ai/careers/job/446714661863",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "company_url": "https://simplify.jobs/c/Qualcomm",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
     "category": "Software",
     "company_name": "Layup Parts",
     "id": "c4a9beb0-b616-4c71-a7ec-ea8276002b31",
@@ -349695,27 +349497,6 @@
       "East Syracuse, NY"
     ],
     "company_url": "https://simplify.jobs/c/Belden",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": []
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Oshkosh",
-    "id": "c9a51469-f4bf-4f0a-b678-70be6b00fa24",
-    "title": "Test & Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1762011492,
-    "date_posted": 1762011492,
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Test---Development-Intern---Summer-2026_R40886",
-    "locations": [
-      "Wixom, MI"
-    ],
-    "company_url": "https://simplify.jobs/c/Oshkosh",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -522095,7 +521876,7 @@
     "company_name": "Palantir",
     "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
     "title": "Software Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027",
       "Spring 2027",
@@ -686529,5 +686310,149 @@
     "degrees": [
       "PhD"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770795,
+    "date_posted": 1782770692,
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
+    "locations": [
+      "NYC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770789,
+    "date_posted": 1782770693,
+    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
+    "locations": [
+      "Denver, CO"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770793,
+    "date_posted": 1782770693,
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "4b0a0a22-ba97-43e6-b131-336344fb7fe6",
+    "title": "Software Engineer Intern - Infrastructure",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770796,
+    "date_posted": 1782770695,
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "4a30dd71-73a0-48c8-9e4a-9422a6952920",
+    "title": "Software Engineer Intern - Defense Tech",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770793,
+    "date_posted": 1782770695,
+    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Palantir",
+    "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "Winter 2028",
+      "Spring 2028",
+      "Summer 2028"
+    ],
+    "date_updated": 1782770796,
+    "date_posted": 1782770693,
+    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+    "locations": [
+      "Washington, DC"
+    ],
+    "company_url": "https://simplify.jobs/c/Palantir",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
