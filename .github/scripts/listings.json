@@ -235900,7 +235900,7 @@
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "TTP",
-    "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
+    "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
     "title": "FPGA Engineer - Consultant",
     "active": true,
     "date_updated": 1780927933,
@@ -279403,7 +279403,7 @@
     "company_name": "Vanguard",
     "id": "80e0d020-8c43-4fa5-9126-8fa016e2b871",
     "title": "Entry Level Application Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1783491301,
     "date_posted": 1783491203,
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145",
@@ -288895,7 +288895,7 @@
     "company_name": "Goldman Sachs",
     "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
     "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-    "active": true,
+    "active": false,
     "date_updated": 1784038481,
     "date_posted": 1782338845,
     "url": "https://higher.gs.com/roles/176151",
@@ -343778,7 +343778,7 @@
     "company_name": "Northrop Grumman",
     "id": "7d2611c5-9dae-488a-bb64-954a43229bc8",
     "title": "Associate Embedded Software Engineer - Manufacturing",
-    "active": true,
+    "active": false,
     "date_updated": 1786056329,
     "date_posted": 1785974400,
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230",
@@ -349591,7 +349591,7 @@
     "company_name": "Clyde Companies",
     "id": "e0eecd90-4fe3-43c7-a4b4-22134c3d7586",
     "title": "AMG Technician 1",
-    "active": true,
+    "active": false,
     "date_updated": 1786399690,
     "date_posted": 1786399511,
     "url": "https://careers.clydeinc.com/jobs/35544?icims=1",
@@ -363182,7 +363182,7 @@
     "company_name": "Booz Allen",
     "id": "d3b3c1a5-ba51-4da1-a781-74429f195204",
     "title": "Data Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1786754521,
     "date_posted": 1785283200,
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0245613",
@@ -363283,7 +363283,7 @@
     "company_name": "Goldman Sachs",
     "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
     "title": "Engineering New Analyst - Engineering",
-    "active": true,
+    "active": false,
     "date_updated": 1786768201,
     "date_posted": 1786767954,
     "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363503,7 +363503,7 @@
     "company_name": "GlobalFoundries",
     "id": "112e1e85-ad6a-40b6-ab73-cbc1622e77d5",
     "title": "Advanced Manufacturing Equipment Engineer New Grad",
-    "active": true,
+    "active": false,
     "date_updated": 1786785519,
     "date_posted": 1786665600,
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604704",
@@ -364399,7 +364399,7 @@
     "company_name": "Medtronic",
     "id": "d83814e3-88f6-4415-a40a-5c87f3e96b61",
     "title": "Embedded Software/Firmware Engineer 1",
-    "active": true,
+    "active": false,
     "date_updated": 1787005323,
     "date_posted": 1786924800,
     "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Embedded-Software--Firmware-R-D-Engineer-I_R73869",
@@ -365126,7 +365126,7 @@
     "company_name": "L3Harris Technologies",
     "id": "efe1e516-6ed6-4f82-80cb-e93d640efb8d",
     "title": "Software Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787006971,
     "date_posted": 1787006761,
     "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors",
@@ -365146,7 +365146,7 @@
     "company_name": "L3Harris Technologies",
     "id": "bf6b0f3e-26ba-4217-917a-74df5f06b050",
     "title": "Associate Software Engineer - Software Engineering",
-    "active": true,
+    "active": false,
     "date_updated": 1787006966,
     "date_posted": 1787006762,
     "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors",
@@ -365166,7 +365166,7 @@
     "company_name": "L3Harris Technologies",
     "id": "dee54f4b-9624-4a3e-bda6-8f39d6b81920",
     "title": "Associate Software Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787006970,
     "date_posted": 1787006764,
     "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors",
@@ -365186,7 +365186,7 @@
     "company_name": "L3Harris Technologies",
     "id": "6fb6a0cd-4a04-46c6-aec0-7982cb8e577b",
     "title": "Associate Software Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787006968,
     "date_posted": 1787006758,
     "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors",
@@ -365225,7 +365225,7 @@
     "company_name": "L3Harris Technologies",
     "id": "91977cf9-3eaa-4e42-91b6-31d3e06c2688",
     "title": "Software Engineer - Software Engineering",
-    "active": true,
+    "active": false,
     "date_updated": 1787006971,
     "date_posted": 1787006778,
     "url": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Software-Engineering-TX-75402/1420346000/?ats=successfactors",
@@ -365283,7 +365283,7 @@
     "company_name": "L3Harris Technologies",
     "id": "7ccbcea2-9321-45fd-ae7b-1880c2950dff",
     "title": "Associate Software Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787006971,
     "date_posted": 1787006773,
     "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors",
@@ -365303,7 +365303,7 @@
     "company_name": "L3Harris Technologies",
     "id": "1970a20b-652d-4272-8755-26ad35432a5b",
     "title": "Associate Integration and Test Engineering",
-    "active": true,
+    "active": false,
     "date_updated": 1787006976,
     "date_posted": 1787006769,
     "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-and-Test-Engineering-FL-32905/1420079000/?ats=successfactors",
@@ -365486,7 +365486,7 @@
     "company_name": "Health Research",
     "id": "26a19401-308e-406f-9f0c-22552b49c1a2",
     "title": "Project Assistant 2",
-    "active": true,
+    "active": false,
     "date_updated": 1787006598,
     "date_posted": 1786924800,
     "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Menands-NY/Hourly-Project-Assistant-II_JR-0002278",
@@ -366315,7 +366315,7 @@
     "company_name": "L3Harris Technologies",
     "id": "6e9f8ba6-6c48-4605-b6d4-6f4605120a80",
     "title": "Associate Software Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787018156,
     "date_posted": 1787017241,
     "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors",
@@ -366953,7 +366953,7 @@
     "company_name": "Apple",
     "id": "a96278c1-ade0-425c-83f0-3a2b804be61d",
     "title": "Software Engineer - IS&T Early Career Opportunities",
-    "active": true,
+    "active": false,
     "date_updated": 1787034844,
     "date_posted": 1787034761,
     "url": "https://jobs.apple.com/en-us/details/200678510",
@@ -367167,7 +367167,7 @@
     "company_name": "Metal Exchange",
     "id": "b0e4e7d4-eba7-44f7-aaad-4e6f88670701",
     "title": "Recycled Metals Buyer - Non Ferrous Trading Division",
-    "active": true,
+    "active": false,
     "date_updated": 1787040541,
     "date_posted": 1787040002,
     "url": "https://careers-metalexchange.icims.com/jobs/2758/job?mobile=true&needsRedirect=false",
@@ -369101,7 +369101,7 @@
     "company_name": "Cisco",
     "id": "1e098824-6a50-4571-a1b8-3d3c30c1ae57",
     "title": "Data Science Engineer 2 - Full Time",
-    "active": true,
+    "active": false,
     "date_updated": 1787094265,
     "date_posted": 1787094052,
     "url": "https://careers.cisco.com/global/en/job/2023062",
@@ -373175,7 +373175,7 @@
     "company_name": "Intel",
     "id": "dbf98b77-423b-44ce-818f-fd96896c0431",
     "title": "Module Equipment Technician - Multiple Teams",
-    "active": false,
+    "active": true,
     "date_updated": 1787264559,
     "date_posted": 1787184000,
     "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Module-Equipment-Technician_JR0286556",
@@ -373216,7 +373216,7 @@
     "company_name": "RTX",
     "id": "6321b5bb-8e7e-4045-9080-c2afa03d5011",
     "title": "Software Engineer 1",
-    "active": false,
+    "active": true,
     "date_updated": 1787264520,
     "date_posted": 1787184000,
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
@@ -373736,7 +373736,7 @@
     "company_name": "Northrop Grumman",
     "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
     "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-    "active": true,
+    "active": false,
     "date_updated": 1787275081,
     "date_posted": 1787184000,
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
@@ -374716,7 +374716,7 @@
     "company_name": "GE Appliances",
     "id": "ae100847-0b5b-46dc-8d75-58159b3d28da",
     "title": "Test Systems & Instrumentation Engineer",
-    "active": true,
+    "active": false,
     "date_updated": 1787332639,
     "date_posted": 1787270400,
     "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
@@ -375595,7 +375595,7 @@
     "company_name": "GE Healthcare",
     "id": "b06e8976-8d59-4e44-abc0-30e329f46f38",
     "title": "Surgery Imaging Field Engineer 1",
-    "active": false,
+    "active": true,
     "date_updated": 1787350784,
     "date_posted": 1787270400,
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Imaging-Field-Engineer-I_R4044978-1",
@@ -375733,7 +375733,7 @@
     "company_name": "Fidelity Investments",
     "id": "b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
     "title": "Software Engineer - Leap",
-    "active": true,
+    "active": false,
     "date_updated": 1787350577,
     "date_posted": 1787270400,
     "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
@@ -376041,7 +376041,7 @@
     "company_name": "CVS Health",
     "id": "c011bf3b-a69f-43a6-86c1-ee327c5fa158",
     "title": "Associate Data Engineer - Conversion",
-    "active": true,
+    "active": false,
     "date_updated": 1787361301,
     "date_posted": 1787270400,
     "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/VA---Work-from-home/Associate-Data-Engineer--Conversion-_R1015903",
@@ -376261,21 +376261,158 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Reli",
-    "id": "9d6ed431-6953-4662-997c-c5c35824e4f2",
-    "title": "Data and Automation Engineer Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1766743943,
-    "date_posted": 1766743943,
-    "url": "https://jobs.lever.co/shopreli/71b22e67-1f91-49c4-b85e-4f40d51649c7/apply",
+    "category": "Software",
+    "company_name": "Ascension",
+    "id": "ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
+    "title": "Application Technology Specialist - Clinical Imaging",
+    "active": true,
+    "date_updated": 1787403452,
+    "date_posted": 1787343096,
+    "url": "https://jobs.ascension.org/us/en/job/459181",
     "locations": [
-      "Norwalk, CA"
+      "Nashville, TN"
     ],
-    "company_url": "https://simplify.jobs/c/Reli",
+    "company_url": "https://simplify.jobs/c/Ascension",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Associate's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Mariana Minerals",
+    "id": "ac52f5f1-d8be-4c9a-8578-a112098cc67b",
+    "title": "Analytical Applications Engineer",
+    "active": true,
+    "date_updated": 1787403062,
+    "date_posted": 1785478258,
+    "url": "https://jobs.ashbyhq.com/marianaminerals/34857c47-bde0-4dce-933b-f07291b5c999/application?embed=true",
+    "locations": [
+      "Moab, UT"
+    ],
+    "company_url": "https://simplify.jobs/c/Mariana-Minerals",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Riot Platforms",
+    "id": "d19e1785-95df-4fb9-9525-e387782fdd86",
+    "title": "Mining Technician - Operations Department",
+    "active": true,
+    "date_updated": 1787403083,
+    "date_posted": 1781100471,
+    "url": "https://ats.rippling.com/riot-platforms-careers/jobs/e8c086c1-6987-4fc8-9a47-d1c408f18ebd",
+    "locations": [
+      "Corsicana, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Riot-Platforms",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "eBay",
+    "id": "c7734ae8-c142-481e-b187-28eb96007649",
+    "title": "Senior Data Engineer Manager",
+    "active": true,
+    "date_updated": 1787411741,
+    "date_posted": 1787270400,
+    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/E-Bay",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Intel",
+    "id": "8f2ffff2-dd59-4966-97ab-1e270a83578a",
+    "title": "RTL Design Engineer - CPU Design Team",
+    "active": true,
+    "date_updated": 1787412694,
+    "date_posted": 1787270400,
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/RTL-Design-Engineer_JR0286568",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "company_url": "https://simplify.jobs/c/Intel",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "GlobalFoundries",
+    "id": "51356e70-c399-48c1-8ed0-d892ed23c0e8",
+    "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
+    "active": true,
+    "date_updated": 1787436946,
+    "date_posted": 1787356800,
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/GlobalFoundries",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Avride",
+    "id": "c5debf1a-809e-407a-b7e4-acfc2b531f29",
+    "title": "Robot Service Technician Assistant",
+    "active": true,
+    "date_updated": 1787441401,
+    "date_posted": 1787441308,
+    "url": "https://job-boards.greenhouse.io/avride/jobs/4379588009",
+    "locations": [
+      "Fairfield, CT"
+    ],
+    "company_url": "https://simplify.jobs/c/Avride",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "1492b1f1-ec72-49d0-8cc4-7c41b35ca4b6",
+    "title": "Vision Engineering Technician - Vision Automation - Semi",
+    "active": true,
+    "date_updated": 1787474719,
+    "date_posted": 1780794771,
+    "url": "https://www.tesla.com/careers/search/job/265473",
+    "locations": [
+      "Sparks, NV"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": []
@@ -503547,7 +503684,7 @@
     "company_name": "Tencent",
     "id": "f682356d-55da-4f90-987d-77f140cc652d",
     "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -613717,7 +613854,7 @@
     "company_name": "SOTI",
     "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
     "title": "Data Scientist Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -639605,7 +639742,7 @@
     "company_name": "Eurofins",
     "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
     "title": "Business Intelligence Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2026"
     ],
@@ -640456,7 +640593,7 @@
     "company_name": "Eurofins",
     "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
     "title": "Business Intelligence Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -652786,7 +652923,7 @@
     "company_name": "thyssenkrupp",
     "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
     "title": "Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -657137,7 +657274,7 @@
     "company_name": "Moment Energy",
     "id": "dbf73971-bce3-47b3-929f-77929a59c11c",
     "title": "Software Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -689117,7 +689254,7 @@
     "company_name": "Eridu AI",
     "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
     "title": "Lab Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -690465,7 +690602,7 @@
     "company_name": "Canva",
     "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
     "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -691087,7 +691224,7 @@
     "company_name": "Canva",
     "id": "24e7466f-1151-4ad5-80f0-97bc9df8d2c8",
     "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
-    "active": false,
+    "active": true,
     "terms": [
       "Fall 2026"
     ],
@@ -698076,7 +698213,7 @@
     "company_name": "Sensata",
     "id": "4970d8e6-5a35-42a8-b190-f87e93fe1d23",
     "title": "Hardware Engineer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -699375,7 +699512,7 @@
     "company_name": "ByteDance",
     "id": "acad052e-b794-4a83-82c4-4d5ff40c200d",
     "title": "Self-Built Engineer Intern - CDN Platform",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701039,7 +701176,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701081,7 +701218,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701107,7 +701244,7 @@
     "company_name": "Goldman Sachs",
     "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
     "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701248,7 +701385,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701274,7 +701411,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701297,7 +701434,7 @@
     "company_name": "Goldman Sachs",
     "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
     "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -701320,7 +701457,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -702954,7 +703091,7 @@
     "company_name": "L3Harris Technologies",
     "id": "f3e59677-5514-4b20-94b5-e6729edf6fd5",
     "title": "Software Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -704476,7 +704613,7 @@
     "company_name": "RTX",
     "id": "d482b9f8-9e51-4e4d-9a3b-fe95a6fcddb8",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -705178,7 +705315,7 @@
     "company_name": "L3Harris Technologies",
     "id": "8ea3fe5c-b537-4649-8327-c44bf0d81ec5",
     "title": "Integration/Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -706713,7 +706850,7 @@
     "company_name": "Normal Computing",
     "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
     "title": "Thermodynamic Hardware Resident",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -709042,7 +709179,7 @@
     "company_name": "Toshiba Global Commerce",
     "id": "e780d84e-674d-477d-9d4c-829d501deca8",
     "title": "AI Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -711010,7 +711147,7 @@
     "company_name": "Cubic",
     "id": "ae5500e9-bf44-4dd7-9a73-6b84de0fb777",
     "title": "Field Services Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -711185,7 +711322,7 @@
     "company_name": "Ontario Teachers' Pension Plan",
     "id": "678b7339-d616-49e4-8023-7ab2273254fd",
     "title": "Risk Intern - Total Fund Risk",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -712909,5 +713046,210 @@
     "degrees": [
       "Bachelor's"
     ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Springs Window Fashions",
+    "id": "fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
+    "title": "Product Management Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407925,
+    "date_posted": 1787407578,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Springs Window Fashions",
+    "id": "c305bb04-1a47-46b7-9176-388a1f0d73f2",
+    "title": "Dealer Business Operations & Analytics Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407928,
+    "date_posted": 1787407583,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Springs Window Fashions",
+    "id": "cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22",
+    "title": "Application Engineering Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407925,
+    "date_posted": 1787407578,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Long Island City, Queens, NY"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Springs Window Fashions",
+    "id": "b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
+    "title": "Data Analyst Intern - Consumer Business Unit",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407924,
+    "date_posted": 1787407584,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Springs Window Fashions",
+    "id": "3b263339-ab18-4363-b881-4222882cc14b",
+    "title": "Textile Engineering Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407924,
+    "date_posted": 1787407584,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Springs Window Fashions",
+    "id": "a9cd2f49-efd8-4433-b2f9-c9ddea84ea80",
+    "title": "AI Analyst Intern - Consumer Business Unit",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407920,
+    "date_posted": 1787407584,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Springs Window Fashions",
+    "id": "3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
+    "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407742,
+    "date_posted": 1787407583,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Product",
+    "company_name": "Springs Window Fashions",
+    "id": "1f240169-1dfc-46e6-8e84-6e70ff3d98da",
+    "title": "Product Management Dashboard Analytics Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1787407923,
+    "date_posted": 1787407582,
+    "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "RTX",
+    "id": "740d3c67-d925-48d7-995a-410073f010e8",
+    "title": "Industrialization Intern - Industrialization Production Readiness",
+    "active": false,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1787410669,
+    "date_posted": 1787270400,
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
+    "locations": [
+      "Longueuil, QC, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/RTX",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": []
   }
 ]
